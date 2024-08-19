@@ -337,7 +337,7 @@ function gameStart(){
             id: 'map'
         })
         myPlayer = new Divobject({
-            color: 'red',
+            color: 'lime',
             dimensions:{
                 width: 50,
                 height:50
